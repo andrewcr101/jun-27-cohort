@@ -3,4 +3,4 @@
 
 > Here is some text in quotes
 
-**strikethrough attempt**
+~~strikethrough attempt~~
